@@ -3,9 +3,12 @@ html {
   background-image: -webkit-linear-gradient(65deg, #ff5722 50%, #b2ebf2 50%);
   min-height: 1000px;
   font-family: 'helvetica neue';
-  border-style: solid;
-  border-width: 7.5px;
+  border-style: double;
+  border-width: 9.5px;
+  border-color: -webkit-linear-gradient(65deg, #ff5722 50%, #b2ebf2 50%);
   border-color: #E4E9FD;
+
+
 }
 
 h1 {
